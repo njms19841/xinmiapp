@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>org.xinmi.HHProject</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>心蜜</string>
+				<string>心蜜知道</string>
 			</dict>
 		</dict>
 	</array>
